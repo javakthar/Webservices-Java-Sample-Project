@@ -59,11 +59,11 @@
         </plugins>
     </build>
     <organization>
-        <name>Hannon Hill</name>
-        <url>http://hannonhill.com</url>
+        <name>Javed Khan</name>
+        <url>http://google.com</url>
     </organization>
     <scm>
-        <connection>scm:git:git://github.com/hannonhill/Webservices-Java-Sample-Project.git</connection>
-        <url>https://github.com/hannonhill/Webservices-Java-Sample-Project</url>
+        <connection>scm:git:git://github.com/javakthar/Webservices-Java-Sample-Project.git</connection>
+        <url>https://github.com/javakthar/Webservices-Java-Sample-Project</url>
     </scm>
 </project>
